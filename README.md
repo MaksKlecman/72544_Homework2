@@ -82,6 +82,7 @@ Expert
 Scenarios are shuffled randomly each time the program runs
 
 
+HOW TO TEST:              
 
 Exercise 1:
 Try different combinations of answers and check if the recommended model changes.
@@ -89,7 +90,7 @@ Enter invalid input (for example “abc” to verify that the program asks again
 
 Exercise 2:
 Create several instances with different configurations.
-Wait some seconds and use the list option to check that the cost increases over time.ʼ
+Wait some seconds and use the list option to check that the cost increases over time
 Terminate one instance and verify that the final cost is shown.
 Try terminating a non-existing instance to test error handling.ʼ
 
