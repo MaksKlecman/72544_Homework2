@@ -1,15 +1,9 @@
 # 72544_Homework2
 
-loud Computing – Part 2 Exercises
+Cloud Computing – Part 2 Exercises
 This repository contains my solutions for Part 2 of the Cloud Computing course.
-All tasks are implemented in Python and run locally in the terminal.
-No external libraries were used. The programs simulate cloud concepts without connecting to real cloud providers.
-The goal of these exercises was to better understand:
-Cloud deployment models (Public, Private, Hybrid, Community)
-IaaS resource management
-Shared Responsibility Model
-SaaS security configuration risks
-Files
+All tasks are implemented in Python and run locally in the terminal
+
 The project contains three Python files:
 
 exercise1.py
